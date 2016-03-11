@@ -47,3 +47,5 @@ L'outil utilisé pour la restitution graphique sera [Grafana](http://grafana.org
 Il s'agit d'une solution clé en main, facile à prendre en main.
 
 ![Monitoring](images/grafana_homepage.png "Monitoring")
+
+## Choses à faire!!
