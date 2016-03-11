@@ -49,3 +49,5 @@ Il s'agit d'une solution clé en main, facile à prendre en main.
 ![Monitoring](images/grafana_homepage.png "Monitoring")
 
 ## Choses à faire!!
+Y'a plein de trucs!
+
